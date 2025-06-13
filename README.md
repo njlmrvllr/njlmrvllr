@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align= center>
 
-<!--
-**njlmrvllr/njlmrvllr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi, I'm Anjali Amaro 👋</h1>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🎯 About Me </h3>
+<p>
+<li> 🎓 Software engineer student at University of Applied Sciences(UPC) </li>
+</p>
+
+<h2> 💻 Technologies & tools </h2>
+
+![GitHub followers](https://img.shields.io/github/followers/njlmrvllr)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://anjaliamarovillar@outlook.com)
