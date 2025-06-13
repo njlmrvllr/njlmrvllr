@@ -13,7 +13,7 @@
 
 <br>
 
-![](https://github-readme-streak-stats.herokuapp.com?user=njlmrvllr&theme=buefy-dark&count_private=true&locale=es)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=njlmrvllr&theme=buefy-dark" alt="GitHub Streak" /></a>
 
 <h2> 💻 Technologies & tools </h2>
 
