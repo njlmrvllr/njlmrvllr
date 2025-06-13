@@ -1,13 +1,17 @@
-# Hi, I'm Anjali Amaro 👋
+<div align="center">
+
+<h1> Hi, I'm Anjali Amaro 👋 </h1>
 
 <h3> 🎯 About Me </h3>
 <p>
-<li> 🎓 Software engineer student at University of Applied Sciences(UPC) </li>
+  <li> 🎓 Software engineer student at University of Applied Sciences(UPC) </li>
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/njlmrvllr?label=njlmrvllr&logo=github&style=for-the-badge)](https://github.com/njlmrvllr?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-amaro-villar)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anjaliamarovillar@outlook.com)
+
+<br>
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=njlmrvllr&theme=buefy-dark&count_private=true&locale=es)
 
