@@ -13,7 +13,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=njlmrvllr)](https://git.io/streak-stats)
+[<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=njlmrvllr&theme=buefy-dark" alt="GitHub Streak" /></a>](https://streak-stats.demolab.com/?user=njlmrvllr&theme=buefy-dark)
 <h2> 💻 Technologies & tools </h2>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
